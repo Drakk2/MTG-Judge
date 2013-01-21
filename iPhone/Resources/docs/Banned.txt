@@ -110,7 +110,7 @@ Avacyn Restored
 Magic 2013
 Return to Ravnica
 
-Format:Vintage
+Format: Vintage
 Vintage decks may consist of cards from all Magic card sets, any edition of the core set, and all special sets, supplements, and promotional printings released by Wizards of the Coast.
 
 Cards from expansions and special sets (like From the Vault, Magic: The Gathering - Commander, etc) are legal in the Vintage format on the date of release of the expansion or special set.
@@ -146,7 +146,7 @@ Flash
 Gifts Ungiven
 Imperial Seal
 Library of Alexandria
-Lion�s Eye Diamond
+Lion's Eye Diamond
 Lotus Petal
 Mana Crypt
 Mana Vault
