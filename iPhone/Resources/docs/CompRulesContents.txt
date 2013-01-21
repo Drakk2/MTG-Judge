@@ -50,8 +50,9 @@ Contents
 307. Sorceries
 308. Tribals
 309. Planes
-310. Vanguards
-311. Schemes
+310. Phenomena
+311. Vanguards
+312. Schemes
 
 4. Zones
 400. General
